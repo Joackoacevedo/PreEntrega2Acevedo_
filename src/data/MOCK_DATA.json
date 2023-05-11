@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "nombre": "Nike Court",
+    "descripcion": "Zapatilla blanca muy nice.",
+    "precio": 59990,
+    "img": "../public/zapatillahombre1.jpg",
+    "stock": 10,
+    "category": "Hombre"
+  }, {
+    "id": 2,
+    "nombre": "Nike 270",
+    "descripcion": "Zapatilla Nike comodisima",
+    "precio": 89990,
+    "img": "../public/zapatillahombre2.jpg",
+    "stock": 27,
+    "category": "Hombre"
+  }, {
+    "id": 3,
+    "nombre": " Nike Air force",
+    "descripcion": "Zapatillas nike mujer expectaculares",
+    "precio": 129990,
+    "img": "../public/zapatillamujer1.jpg",
+    "stock": 9,
+    "category": "Mujer"
+  }, {
+    "id": 4,
+    "nombre": "Puma Vikky",
+    "descripcion": "Zapatilla puma de mujer",
+    "precio": 45990,
+    "img": "../public/zapatillamujer2.jpeg",
+    "stock": 6,
+    "category": "Mujer"
+  }, {
+    "id": 5,
+    "nombre": "Bubblegummers niño",
+    "descripcion": "zapatillas precisas para un niño",
+    "precio": 24990,
+    "img": "../public/zapatillaniños1.jpg",
+    "stock": 15,
+    "category": "Niños"
+  }, {
+    "id": 6,
+    "nombre": "Bubblegummers Niña",
+    "descripcion": "La mejor zapatillas para una niña",
+    "precio": 19990,
+    "img": "../public/zapatillaniños2.jpg",
+    "stock": 22,
+    "category": "Niños"
+  }]
